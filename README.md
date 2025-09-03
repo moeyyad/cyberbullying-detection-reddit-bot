@@ -1,8 +1,5 @@
-# Reddit Bot with Machine Learning Project
+# Cyberbullying Detection Reddit Bot Project
 We are building a Reddit bot that pulls in new comments from Reddit and tries to detect any instances of cyberbullying using machine learning! This will all be built using Python :)
-
-## Need to catch up?
-[Recap of lessons](https://dynalist.io/d/WZCbxjXQUOw0CD0NYiGQjtF_)
 
 ## Learning Objectives
 
@@ -22,10 +19,10 @@ We are building a Reddit bot that pulls in new comments from Reddit and tries to
 
 Lesson # | Date | Description
 --|--|--
-1 | Oct 3 | Learning how to do machine learning using a Naive Bayes Classifier
-2 | Oct 17 | Creating a Reddit Bot using Python and hooking it up to some machine learning
-3 | Oct 24 | End-to-end machine learning. Training, testing, and applying your model
-4 | Oct 31 | The different types of ML models and the problems they solve
+1 | Oct 3 | Learning how the basics of machine learning by building a Naive Bayes Classifier
+2 | Oct 17 | Creating a Reddit Bot using Python and hooking it up to our machine learning model
+3 | Oct 24 | End-to-end machine learning: Training, testing, and deploying our model
+4 | Oct 31 | Learning about different types of ML models and the problems they solve
 5 | Nov 7 | Cyberbullying Detection Part 1
 6 | Nov 14 | Cyberbullying Detection Part 2
 7 | Nov 21 | Finishing touches, debugging, and Q&A
